@@ -11,3 +11,5 @@ To see the alternative with test-containers, see branch: `test-containers`
 ## Adding Unit Tests
 
 This requires an already setup Postgres database in the system (either locally or in Docker)
+
+To run the tests, run `dotnet test`
