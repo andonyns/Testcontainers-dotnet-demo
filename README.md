@@ -7,3 +7,7 @@ This is the resulting code of following https://testcontainers.com/guides/gettin
 To see the current scenario exemplified, see branch: `unit-tests`
 
 To see the alternative with test-containers, see branch: `test-containers`
+
+## Adding Unit Tests
+
+This requires an already setup Postgres database in the system (either locally or in Docker)
